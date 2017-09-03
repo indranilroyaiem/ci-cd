@@ -1,0 +1,5 @@
+{
+  "tests/unittest_dev.py::test_generate_buzz_of_at_least_five_words": true, 
+  "tests/unittest_dev.py::test_sample_multiple_words": true, 
+  "tests/unittest_dev.py::test_sample_single_word": true
+}
