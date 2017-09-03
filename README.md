@@ -13,3 +13,5 @@ Deploying the Docker image to Heroku --> scale it !!
 
 Run web-App simple.
 
+Apply a simulated Hotfix.
+
